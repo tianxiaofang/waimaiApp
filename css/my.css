@@ -1,0 +1,143 @@
+.mtop_right{
+    float: right;
+}
+.mtop_item{
+    font-family: 'iconfont';
+    float: left;
+    margin-left: 0.24rem;
+    color: #fff;
+}
+.toux{
+    width: 100%;
+    height: 2.54rem;
+    background: #00a0fe;
+}
+.tou_main{
+    width: 6.8rem;
+    height: 2.54rem;
+    margin: 0 auto;
+    display: block;
+}
+.tou_left{
+    width: 1.4rem;
+    height: 1.4rem;
+    border-radius: 50%;
+    background: #fff;
+    float: left;
+    margin-top: 0.57rem;
+}
+.tou_leftimg{
+    width: 1.4rem;
+    height: 1.4rem;
+    border-radius: 50%;
+    display: block;
+}
+.tou_right{
+    width: 5.0rem;
+    height: 1.4rem;
+    margin-top: 0.57rem;
+    float: left;
+    margin-left: 0.4rem;
+}
+.tou_item{
+    height: 0.7rem;
+    color: #fff;
+    font-size: .3rem;
+    line-height: 0.7rem;
+}
+.tou_list{
+    font-size: .3rem;
+    float: right;
+    line-height: 0.7rem;
+    margin-right: 0.1rem;
+}
+
+.momey{
+    width: 100%;
+    background: #fff;
+    border-bottom: 0.01rem solid #dddddd;
+    margin-bottom: 0.18rem;
+}
+.money_main{
+    width: 100%;
+    height: 1.6rem;
+    background: #f5f5f5;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.money_item{
+    width: 33%;
+    height: 100%;
+    background: #fff;
+}
+.money_item1{
+    width: 100%;
+    display: block;
+    margin-top: 0.3rem;
+    font-size: .4rem;
+    color: #00a0fe;
+    text-align: center;
+}
+.money_item2{
+    width: 100%;
+    display: block;
+    margin-bottom: 0.3rem;
+    font-size: .3rem;
+    color: #666666;
+    text-align: center;
+}
+.money_item3{
+    color: #fc5f40;
+}
+.money_item4{
+    color: #fca204;
+}
+
+.shouhu_item{
+    width: 100%;
+    height: 0.98rem;
+    border-top: 0.01rem solid #ddd;
+    font-size: .2rem;
+    color: #666;
+}
+.shouhu_left{
+    font-family: 'iconfont';
+    /*width: .4rem;*/
+    float: left;
+    font-size: .4rem;
+    line-height: 0.98rem;
+    display: block;
+    margin-left: 0.24rem;
+    color: #00a0fe;
+}
+.shouhu_right{
+    font-family: 'iconfont';
+    /*width: .4rem;*/
+    font-size: .2rem;
+    color: #666;
+    line-height: 0.98rem;
+    display: block;
+    margin-left: 0.4rem;
+    float: left;
+}
+.active1{
+     color: #fb7a52;
+ }
+.active2{
+    color: #fc7b53;
+}
+.active3{
+    color: #94d94a;
+}
+.active4{
+    color: #4ca7f0;
+}
+.shouhu_rxiaozi{
+    color: #989898;
+    font-size: .12rem;
+    line-height: 0.98rem;
+    float: right;
+    margin-right: 0.4rem;
+}

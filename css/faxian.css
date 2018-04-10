@@ -1,0 +1,150 @@
+.faxianmain{
+    background:#eee ;
+}
+.faxian_tu{
+    width: 100%;
+    height: 4.3rem;
+}
+.faxian_img{
+    width: 100%;
+    height: 4.3rem;
+    display: block;
+}
+.faxian_con1{
+    width: 100%;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 0.24rem;
+}
+.faxian_item{
+    width: 49.8%;
+    height: 1.52rem;
+    background: #fff;
+    border-bottom: 0.04rem solid #eee;
+}
+.faxian_item1{
+    margin-left: 0.24rem;
+    height: 100%;
+}
+.faxian_litem{
+    float: left;
+    margin-top: 0.4rem;
+}
+.faxian_litem_title{
+    font-size: .26rem;
+    color: #ffb65c;
+    line-height: 0.4rem;
+}
+.faxian_litem_zi{
+    color: #999999;
+    font-size: .2rem;
+}
+.faxian_ritem{
+    width: 0.9rem;
+    height: 0.9rem;
+    float: right;
+    margin-right: 0.24rem;
+    margin-top: 0.31rem;
+}
+.faxian_ritem_img{
+    width: 0.9rem;
+    height: 0.9rem;
+    display: block;
+}
+.faxian_active{
+    color: #00a0fe;
+}
+.faxian_time{
+    height: 1.44em;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background: #fff;
+}
+.faxian_timeall{
+    width: 2rem;
+    margin: 0 auto;
+    height: 0.7rem;
+}
+.faxian_timetu{
+    font-family: 'iconfont';
+    font-size: .4rem;
+    color: #ff726e;
+    display: block;
+    float: left;
+    margin-top: 0.3rem;
+}
+.faxian_timezi{
+    font-size: .3rem;
+    margin-left: .24rem;
+    display: block;
+    float: left;
+    margin-top: 0.3rem;
+}
+.faxian_timemore{
+    font-size: .2rem;
+    color: #999;
+    text-align: center;
+    margin-top: 0.05rem;
+}
+.xians{
+    width: 100%;
+    background: #fff;
+}
+.faxian_xians{
+    width: 6.8rem;
+    margin: 0 auto;
+}
+.faxian_xians_item{
+    width: 33.33%;
+    height: 3rem;
+    float: left;
+}
+.xians_itemtop{
+    width: 0.94rem;
+    height: 0.34rem;
+    text-align: center;
+    line-height: 0.34rem;
+    background: #413d3c;
+    color: #fff;
+    font-size: .2rem;
+}
+.xians_itemimg{
+    width: 1.7em;
+    height: 0.88rem;
+    margin: 0 auto 0.24rem;
+}
+.xians_tu{
+    width: 1.7em;
+    height: 0.88rem;
+    display: block;
+    margin-top: .39rem;
+}
+.xians_title{
+    font-size: .2rem;
+    color: #333;
+    line-height: .6rem;
+    margin-left: 0.02rem;
+}
+.xians_zi{
+    font-size: .2rem;
+    color: #ff745d;
+    line-height: .4rem;
+    margin-left: 0.02rem;
+}
+.xians_zi1{
+    font-size: .18rem;
+    color: #ccc;
+    text-decoration: line-through;
+}
+.xians_more{
+    width: 100%;
+    font-size: .2rem;
+    line-height: 1rem;
+    text-align: center;
+    color: #ccc;
+    background: #fff;
+}
+
